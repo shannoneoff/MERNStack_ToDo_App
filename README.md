@@ -1,4 +1,4 @@
-# Todo_App
+# ToDo App
 *MERN stack ToDo App*
 
 ## **[Client-side](client)**
