@@ -4,7 +4,8 @@
   "description": "MERN stack todo app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [
     "mern",
@@ -19,5 +20,14 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^6.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannoneoff/Todo_App.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shannoneoff/Todo_App/issues"
+  },
+  "homepage": "https://github.com/shannoneoff/Todo_App#readme"
 }
