@@ -10,7 +10,7 @@ Featured in the code for the Client-side of the app are the following:
    __________________
 
 ## **Server-side**
-Featured in the code for the Client-side of the app are the following:
+Featured in the code for the Server-side of the app are the following:
 - [Controller](controllers/ToDoController.js)
 - [Model](models/ToDoModel.js)
 - [Routes](routes/ToDoRoutes.js)
